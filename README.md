@@ -1,6 +1,6 @@
 ### Hello ! Je suis Rayane, étudiant en développement web 👋
 
-## Je me forme afin de devenir développeur fullstack JS (MERN stack) !
+## Je me forme afin de devenir développeur Fullstack JS (MERN stack) !
 - 🔭 Je code sur VS Code !
 - 🌱 Je me forme principalement sur React JS.
 - 👯 Je me forme aussi sur la stack MERN (MongoDB, Express, React, Node.js).
