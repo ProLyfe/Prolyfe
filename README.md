@@ -4,6 +4,7 @@
 - 🔭 Je code sur VS Code !
 - 🌱 Je me forme principalement sur React JS.
 - 👯 Je me forme aussi sur la stack MERN (MongoDB, Express, React, Node.js).
+- 📱 J'ai aussi un grand intérêt pour le développement mobile, notamment avec React Native.
 - 🥅 Mes objectifs en 2020: trouver une alternance pour ma troisième année.
 - ⚡ Parlons de tout et de rien.
 
