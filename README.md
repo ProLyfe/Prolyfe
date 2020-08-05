@@ -35,6 +35,6 @@
 
 ### Je me forme sur ces techos:
 
-<img align="left" alt="banner cv" src="https://raw.githubusercontent.com/ProLyfe/Prolyfe/master/cv.png" />
+<img align="left" alt="banner cv" src="https://raw.githubusercontent.com/ProLyfe/Prolyfe/master/bannercv.png" />
 
 [linkedin]: https://www.linkedin.com/in/rayane-emamdee
